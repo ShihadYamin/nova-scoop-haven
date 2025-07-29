@@ -44,7 +44,7 @@ const Hero = () => {
             <img 
               src={heroImage} 
               alt="Futuristic Ice Cream" 
-              className="relative z-10 w-96 h-96 object-cover rounded-full animate-float shadow-glow-primary"
+              className="relative z-10 w-96 h-96 object-cover rounded-full animate-float animate-hero-image-hover shadow-glow-primary cursor-pointer"
             />
           </div>
         </div>

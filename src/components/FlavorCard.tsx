@@ -19,7 +19,7 @@ const FlavorCard = ({ name, description, image, rating, price, gradient }: Flavo
         <img 
           src={image} 
           alt={name} 
-          className="w-full h-48 object-cover transition-transform duration-300 group-hover:scale-110"
+          className="w-full h-48 object-cover animate-image-hover cursor-pointer"
         />
         <div className="absolute top-4 right-4 bg-background/80 backdrop-blur-sm rounded-full px-3 py-1 flex items-center space-x-1">
           <Star className="h-4 w-4 text-yellow-400 fill-current" />
