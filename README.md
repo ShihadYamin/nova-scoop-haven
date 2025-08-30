@@ -1,4 +1,6 @@
 # Welcome to your Lovable project
+Open Project:::
+**URL** : https://nova-scoop-haven.lovable.app/
 
 ## Project info
 
